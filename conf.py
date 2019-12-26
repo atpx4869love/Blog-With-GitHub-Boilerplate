@@ -11,7 +11,7 @@ index_page_size = 10
 archives_page_size = 20
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "atpx4869love/Blog-With-GitHub-Boilerplate@gh-pages"
+    "repo": "atpx4869love/web@gh-pages"
 }
 
 # 站点设置
