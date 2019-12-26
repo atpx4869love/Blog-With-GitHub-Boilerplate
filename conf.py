@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/Blog-With-GitHub-Boilerplate/"
+site_prefix = "/web/"
 #site_prefix = "/"
 source_dir = "../src/"
 build_dir = "../dist/"
